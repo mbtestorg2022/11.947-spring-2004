@@ -29,11 +29,48 @@ Course Requirements
 
 Requirements for this course include:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Extensive Reading and Class Participation | 25% |
-| Final Plan and Presentation to the Client | 50% |
-| Grading by Teammates | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Extensive Reading and Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Plan and Presentation to the Client
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Grading by Teammates
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The final project grade includes evaluation of all work leading into the final project, including the six assignments and the mid-term findings report.
 
